@@ -1,4 +1,4 @@
-# Compras con Paypal - Trabajo Grupal
+# Compras con Paypal 
 ## Resultado:
 Formulario:
 
